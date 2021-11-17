@@ -1,5 +1,5 @@
-# Avaliação para Seleção de Desenvolvedor para Surittec
-Este projeto CRUD faz parte do processo seletivo da Surittec para a vaga de desenvolvedor . O objetivo foi desenvolver um sistema completo de cadastro de cliente. 
+# Surittec
+ O objetivo foi desenvolver um sistema completo de cadastro de cliente. 
 
 ## Backend
 Utilizou-se Java 8, Spring 5 e Hibernate 5, conectando-se com um banco MySQL versão 8. Configurou criando um projeto maven, e utilizou-se os seguintes plugins como ferramentas auxiliares:
